@@ -1,7 +1,6 @@
 ---
 title: Welcome to BikeGuider
 layout: home
-layout: features details
 ---
 
 ## Welcome to the BikeGuider Project!
