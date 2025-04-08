@@ -3,7 +3,7 @@ title: Welcome to BikeGuider
 layout: home
 ---
 
-Welcome to the BikeGuider Project!
+## Welcome to the BikeGuider Project!
 
 BikeGuider is designed to help bikers navigate safely without needing to constantly check their phones. Instead of relying on visual cues, the system uses a set of vibration motors to deliver directional feedback—letting riders know when to turn left, right, or make a U-turn through distinct vibration patterns.
 
