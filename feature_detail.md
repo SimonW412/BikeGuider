@@ -1,6 +1,7 @@
 ---
 title: Details of Features
 layout: page
+nav_order: 2
 ---
 
 ## Features Overview
