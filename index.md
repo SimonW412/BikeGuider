@@ -1,6 +1,7 @@
 ---
 title: Welcome to BikeGuider
 layout: home
+nav_order: 1
 ---
 
 ## Welcome to the BikeGuider Project!
