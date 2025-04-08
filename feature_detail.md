@@ -8,7 +8,7 @@ nav_order: 2
 
 As mentioned in the introduction, BikeGuider focuses on two key functions: directional guidance and real-time safety alerts—all delivered through subtle but effective haptic feedback.
 
-# Directional Guidance via Handlebar Vibrations
+### Directional Guidance via Handlebar Vibrations
 
 To help riders stay focused on the road, BikeGuider replaces on-screen directions with tactile feedback. Vibration motors embedded in the handlebars gently alert the biker when it's time to turn:
 
@@ -18,7 +18,7 @@ Missed Turns: If a rider misses a turn, both handlebars will vibrate in a short 
 
 This system provides clear, non-intrusive guidance while minimizing distractions.
 
-# Collision and Proximity Warnings
+### Collision and Proximity Warnings
 
 Bikers often face challenges detecting what's happening behind them—especially at higher speeds or in busy environments. To address this, BikeGuider supports mounting rear-facing cameras or proximity sensors on the bike. These are integrated into the system to detect:
 
