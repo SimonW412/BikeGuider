@@ -1,21 +1,19 @@
 ---
-title: Welcome to BikeGuider
+title: Introduction
 layout: home
 nav_order: 1
 ---
 
-## Welcome to the BikeGuider Project!
+## BikeGuider: An Intelligent Navigation and Safety System for Bikers Using Vibration Feedback and Computer Vision
 
-BikeGuider is designed to help bikers navigate safely without needing to constantly check their phones. Instead of relying on visual cues, the system uses a set of vibration motors to deliver directional feedback—letting riders know when to turn left, right, or make a U-turn through distinct vibration patterns.
+**Team 2: Jiuyang Lyu, Jun Wang, Simon Wang**
 
-The main idea is to keep things hands-free and distraction-free. You ride as usual, and the vibrations guide you in real time. The system can be paired with existing map apps like Google Maps to fetch route data and trigger the appropriate feedback based on GPS position and direction.
+Imagine navigating city streets with complete confidence – no glancing at your phone, no missed turns, just you and the road ahead. BikeGuider transforms this vision into reality.
 
-We’re also exploring a few optional features, like:
+BikeGuider is a navigation system for bikers, designed to keep you focused on the ride. With handlebar-mounted vibration motors, BikeGuider delivers real-time directional feedback, letting you know when to turn left, right, or make a U-turn -- through distinct, intuitive vibration patterns.
 
-Pedestrian alerts, to warn about nearby foot traffic
+But navigation is only half the story. BikeGuider’s computer‑vision engine keeps you safe by warning you of nearby hazards -- pedestrians, vehicles, even unexpected obstacles -- with tailored haptic alerts. It also syncs effortlessly with Google Maps to fetch live route data and uses a mobile application to provide customized riding experience.
 
-Collision detection, to give heads-up about obstacles
-
-Speed limit reminders, based on your location
-
-Overall, BikeGuider blends basic hardware components (like vibration motors and a microcontroller) with smart software integration to create a more intuitive, safer riding experience.
+<div style="text-align: center;">
+  <img src="Images/poster.png" alt="BikeGuider Poster" width="400">
+</div>

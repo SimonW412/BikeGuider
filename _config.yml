@@ -1,8 +1,4 @@
-title: Bike Guider
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: BikeGuider
+description: A navigation and safety system for bikers that uses handlebar-mounted vibration motors and computer vision to enhance situational awareness.
 theme: just-the-docs
-
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+url: https://simonw412.github.io/BikeGuider/
