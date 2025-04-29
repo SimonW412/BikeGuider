@@ -58,7 +58,7 @@ A cyclist mounts BikeGuider to their handlebars and rear rack. After setting a r
 | ESP32-CAM (x2)               | Control                  | $20      |
 | Vibration motors             | Haptic feedback          | $25      |
 | MAX78000 dev board           | Edge CV model            | $40      |
-| Relays, wiring, prototyping  | Electrical setup         | $30      |
+| MOSFET, wiring, prototyping  | Electrical setup         | $30      |
 | **Total**                    |                          | **$115** |
 
 
@@ -71,6 +71,6 @@ A cyclist mounts BikeGuider to their handlebars and rear rack. After setting a r
 
 
 ## Team Member Responsibilities
-- Jiuyang Lyu: Vibration motor development
+- Jiuyang Lyu: Vibration motor development, CAD design, PCB design
 - Jun Wang: Computer vision, user study design, major website updates
 - Simon Wang: Google Maps integration, mobile application development
