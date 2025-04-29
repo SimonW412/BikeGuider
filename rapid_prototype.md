@@ -6,10 +6,9 @@ nav_order: 5
 
 ## BikeGuider Rapid Prototype Display 
 
-Our BikeGuider project mainly composes of 2 main components: the hardware with the vibrating motors and a supporting app.
+BikeGuider consists of two core elements: a handlebar-mounted haptic module and a companion mobile app. 
 
-The hardware components have one esp32 chip to control the strength and pattern of the vibrating motor. 
-The motors can be adapted to the handlebar with 3d printed components that fix the motors. 
+The haptic module, powered by an ESP32 microcontroller, delivers programmable vibration intensity and patterns via 3D-printed mounts.
 
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
   <figure style="margin: 0; text-align: center;">
@@ -26,3 +25,7 @@ The motors can be adapted to the handlebar with 3d printed components that fix t
   </figure>
 </div>
 
+<div style="text-align: center;">
+  <img src="Images/rapid_prototype_sketch.jpg" alt="rapid_proto_sketch" width="400">
+  <figcaption>Overall system sketch</figcaption>
+</div>
