@@ -30,13 +30,15 @@ The haptic module, powered by an ESP32 microcontroller, delivers programmable vi
   <figcaption>Overall system sketch</figcaption>
 </div>
 
-<video width="600" controls>
-  <source 
-    src="{{ '/Video/vibrating_motor_demo.mp4' | relative_url }}" 
-    type="video/mp4">
-  <!-- fallback text -->
-  Your browser doesn’t support embedded videos.
-</video>
+<div style="text-align: center;">
+  <video width="400" controls>
+    <source 
+      src="{{ '/Video/vibrating_motor_demo.mp4' | relative_url }}" 
+      type="video/mp4">
+    Your browser doesn’t support embedded videos.
+  </video>
+  <figcaption>The motor vibrating under ESP32 control</figcaption>
+</div>
 
 
 
