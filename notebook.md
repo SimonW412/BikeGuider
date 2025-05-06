@@ -29,7 +29,7 @@ Participants sat on a stationary bicycle equipped with vibration motors on the h
 - Participants ranked the intensities after completing all trials.
 
 **Phase 2: Vibration Pattern**
-- Patterns: Single-burst (200ms), double-burst (400ms), ramp-up (0% to 75% PWM duty cycle in 2s), wave (fluctutate between 0% and 75% PWM duty cycle every 100ms for 2s). Orders were randomized for each participant.
+- Patterns: Single-burst (200ms), double-burst (400ms), ramp-up (0% to 75% PWM duty cycle in 2s), wave (fluctuate between 0% and 75% PWM duty cycle every 100ms for 2s). Orders were randomized for each participant.
 - Participants rated each pattern on intuitiveness, comfort, and overall performance using a 5-point Likert scale.
 - Participants ranked the patterns after completing all trials.
 
@@ -69,4 +69,4 @@ Vibration Pattern (lower = better)
 |:---:|:---:|:---:|:---:|
 |3.25|2.0|3.25|**1.0**|
 
-Summary: Participants prefer a medium‑high intensity wave pattern (fluctutate between 0% and 75% PWM duty cycle every 100ms for 2s), offering the best tradeoff for intuitiveness and physical comfort. 100% intensity remains useful for critical alerts; 25% is comfortable but too subtle to rely on.
+Summary: Participants prefer a medium‑high intensity wave pattern (fluctuate between 0% and 75% PWM duty cycle every 100ms for 2s), offering the best tradeoff for intuitiveness and physical comfort. 100% intensity remains useful for critical alerts; 25% is comfortable but too subtle to rely on.
