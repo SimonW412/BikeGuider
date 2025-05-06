@@ -8,6 +8,8 @@ nav_order: 1
 
 **Team 2: Jiuyang Lyu, Jun Wang, Simon Wang**
 
+[May 6 Slides](https://docs.google.com/presentation/d/1mTShcqs4xdIHYxtaiJTxnBsU9qbqCU_LF7xcDLLJgOk/edit?usp=sharing)
+
 Imagine navigating city streets with complete confidence – no glancing at your phone, no missed turns, just you and the road ahead. BikeGuider transforms this vision into reality.
 
 BikeGuider is a navigation system for bikers, designed to keep you focused on the ride. With handlebar-mounted vibration motors, BikeGuider delivers real-time directional feedback, letting you know when to turn left, right, or make a U-turn -- through distinct, intuitive vibration patterns.
