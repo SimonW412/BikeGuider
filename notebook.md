@@ -70,3 +70,17 @@ Vibration Pattern (lower = better)
 |3.25|2.0|3.25|**1.0**|
 
 Summary: Participants prefer a medium‑high intensity wave pattern (fluctuate between 0% and 75% PWM duty cycle every 100ms for 2s), offering the best tradeoff for intuitiveness and physical comfort. 100% intensity remains useful for critical alerts; 25% is comfortable but too subtle to rely on.
+
+### Week 6
+
+**Bluetooth Low Power**
+We are trying to set up the Bluetooth Low Power (BLE) for communication between the Android App and ESP32 chip. We tried to send simple messages from Android App to esp32 chip first just for testing. Then, we planned to send more complex messages with different data structures to see whether the connection is reliable or not.
+
+**Mapbox Map Interface**
+We experimented with the Mapbox Map APIs for all navigation info. If we can successfully capture the navigation info from API, the app is responsible for sending this info to esp32. The data format is still being determined.
+
+**Camera**
+We connected OV7670 camera to ESP32 board. We identified a I2C issue caused by ESP IDF 5.4.1 and esp32-camera driver 2.0.15. The I2C communication between the camera and esp32 cannot be established (no acknowledgement issue). Downgrading the esp32-camera module from 2.0.15 to 2.0.11 temporarily solve the problem. While successfully connect camera to esp32, our esp32 board do not has external ram for frame buffer and has limited computing power.
+Thus, we plan to add a MAX78000 board with camera onboard to achieve the object detection functionality and use SPI to connect esp32 and MAX78000 boards.
+
+
