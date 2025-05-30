@@ -73,27 +73,33 @@ Summary: Participants prefer a medium‑high intensity wave pattern (fluctuate b
 
 ### Week 6
 
-**Bluetooth Low Power**
+***Bluetooth Low Power***
+
 We are trying to set up the Bluetooth Low Power (BLE) for communication between the Android App and ESP32 chip. We tried to send simple messages from Android App to esp32 chip first just for testing. Then, we planned to send more complex messages with different data structures to see whether the connection is reliable or not.
 
-**Mapbox Map Interface**
+***Mapbox Map Interface***
+
 We experimented with the Mapbox Map APIs for all navigation info. If we can successfully capture the navigation info from API, the app is responsible for sending this info to esp32. The data format is still being determined.
 
-**Camera**
+***Camera***
+
 We connected OV7670 camera to ESP32 board. We identified a I2C issue caused by ESP IDF 5.4.1 and esp32-camera driver 2.0.15. The I2C communication between the camera and esp32 cannot be established (no acknowledgement issue). Downgrading the esp32-camera module from 2.0.15 to 2.0.11 temporarily solve the problem. While successfully connect camera to esp32, our esp32 board do not has external ram for frame buffer and has limited computing power.
 Thus, we plan to add a MAX78000 board with camera onboard to achieve the object detection functionality and use SPI to connect esp32 and MAX78000 boards.
 
 ### Week 7
-**Computer Vision**
+***Computer Vision***
+
 We recieved the Max78000 board and tried to deploy existing YADES Project on Max board. However we found that the model and synthesis configuration are misconfigured and the project cannot be synthesized. We added a issue on the github to that project and currently we are debugging that project.
 
 ### Week 8
-**Computer Vision**
+***Computer Vision***
+
 We are still debugging the project synthesis problem.
 
 Communication between ESP32 and Max78000 board in development. SPI and I2C protocol tested. Found Max78000 SPI and I2C driver issues. Under SPI slave mode, Max78000 does not response to the master's read request. Under I2C slave mode, Max78000 keeps pulling SCLK low, causing master timesout and failed transaction. Next step is to make Max to be the master and ESP32 to be the slave.
 
-**PCB**
+***PCB***
+
 Schematic completed, pending inter-board and board-sensor communication test pass.
 
 
