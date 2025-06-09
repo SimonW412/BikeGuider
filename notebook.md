@@ -102,5 +102,10 @@ Communication between ESP32 and Max78000 board in development. SPI and I2C proto
 
 Schematic completed, pending inter-board and board-sensor communication test pass.
 
+### Week 9 and 10
+***PCB***
+PCB manufacture compelete and the design is bug free.
 
+***Enclosure***
+CAD design for enclosure and mount complete. Initial prototype 3D printed. There are several flaw and error in the design so the pcb does not fit in this prototype. Refined version is being printed.
 
