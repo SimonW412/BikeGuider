@@ -72,25 +72,33 @@ A cyclist mounts BikeGuider to their handlebars and rear rack. After setting a r
 
 <div style="display: table;">
   <div style="display: table-cell; vertical-align: middle; padding-right: 10px;">
-    <img src="Images/front_max78000_embed.png" alt="top sketch" width="350">
+    <img src="Images/pcb_front.png" alt="top sketch" width="350">
   </div>
   <div style="display: table-cell; vertical-align: middle;">
-    <img src="Images/topview_max78000_embed.png" alt="side sketch" width="350">
+    <img src="Images/pcb_bottom.png" alt="side sketch" width="350">
   </div>
   <div style="display: table-cell; vertical-align: middle;">
-    <img src="Images/transparent_material_slot.png" alt="side sketch" width="350">
+    <img src="Images/enclosure.jpeg" alt="side sketch" width="350">
   </div>
-  <div style="display: table-cell; vertical-align: middle;">
-    <img src="Images/transparent_material_slot.png" alt="side sketch" width="350">
+    <div style="display: table-cell; vertical-align: middle;">
+    <img src="Images/schem.png" alt="side sketch" width="350">
+  </div>
+    <div style="display: table-cell; vertical-align: middle;">
+    <img src="Images/pcb.png" alt="side sketch" width="350">
   </div>
 
 ## Overall View on Hardware Mounted on Bike
   <div style="display: table-cell; vertical-align: middle;">
-    <img src="Images/BikeGuider.png" alt="side sketch" width="350">
+    <img src="Images/BikeGuider.png" alt="side sketch" width="1200">
   </div>
 </div>
 
 ## Object Detection Demo on Bike's Rear Camera
+
+  <div style="display: table-cell; vertical-align: middle;">
+  <img src="Images/yolo.jpg" alt="side sketch" width="350">
+  </div>
+
 <div style="text-align: center;">
   <video width="400" controls>
     <source 
@@ -101,6 +109,6 @@ A cyclist mounts BikeGuider to their handlebars and rear rack. After setting a r
 </div>
 
 ## Team Member Responsibilities
-- Jiuyang Lyu: Vibration motor development, CAD design, PCB design
+- Jiuyang Lyu: Vibration motor development, CAD design, PCB design, firmware design (esp32, max78000), computer vision
 - Jun Wang: Computer vision, user study design, major website updates
-- Simon Wang: Google Maps integration, mobile application development
+- Simon Wang: Google Maps integration, mobile application development, Bluetooth communication
