@@ -92,7 +92,7 @@ A cyclist mounts BikeGuider to their handlebars and rear rack. After setting a r
 
 ## Object Detection from Rear Camera Demo
 <video width="560" height="315" controls>
-  <source src="/videos/object_detection_rear_camera.mp4" type="video/mp4">
+  <source src="Video/object_detection_rear_camera.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
