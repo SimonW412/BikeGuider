@@ -33,6 +33,7 @@ A cyclist mounts BikeGuider to their handlebars and rear rack. After setting a r
 - Companion mobile app allowing users to:
   - Customize vibration patterns and intensity
 
+## Concept Sketches
 <div style="display: table;">
   <div style="display: table-cell; vertical-align: middle; padding-right: 10px;">
     <img src="Images/sketch_top.png" alt="top sketch" width="350">
