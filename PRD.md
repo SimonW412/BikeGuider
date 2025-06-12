@@ -90,12 +90,6 @@ A cyclist mounts BikeGuider to their handlebars and rear rack. After setting a r
   </div>
 </div>
 
-## Object Detection from Rear Camera Demo
-<video width="560" height="315" controls>
-  <source src="Video/object_detection_rear_camera.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 ## Team Member Responsibilities
 - Jiuyang Lyu: Vibration motor development, CAD design, PCB design
 - Jun Wang: Computer vision, user study design, major website updates
