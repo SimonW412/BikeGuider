@@ -70,34 +70,16 @@ A cyclist mounts BikeGuider to their handlebars and rear rack. After setting a r
 
 ## Product Images
 
-<div style="display: table;">
-  <div style="display: table-cell; vertical-align: middle; padding-right: 10px;">
-    <img src="Images/pcb_front.png" alt="top sketch" width="350">
-  </div>
-  <div style="display: table-cell; vertical-align: middle;">
-    <img src="Images/pcb_bottom.png" alt="side sketch" width="350">
-  </div>
-  <div style="display: table-cell; vertical-align: middle;">
-    <img src="Images/enclosure.jpeg" alt="side sketch" width="350">
-  </div>
-    <div style="display: table-cell; vertical-align: middle;">
-    <img src="Images/schem.png" alt="side sketch" width="350">
-  </div>
-    <div style="display: table-cell; vertical-align: middle;">
-    <img src="Images/pcb.png" alt="side sketch" width="350">
-  </div>
-
-## Overall View on Hardware Mounted on Bike
-  <div style="display: table-cell; vertical-align: middle;">
-    <img src="Images/BikeGuider.png" alt="side sketch" width="1200">
-  </div>
+<div style="text-align:center;">
+  <img src="Images/bikeGuider.jpeg"  alt="bikeguider"      width="350"><br>
+  <img src="Images/pcb_front.png"    alt="top sketch"      width="350"><br>
+  <img src="Images/pcb_bottom.png"   alt="bottom sketch"   width="350"><br>
+  <img src="Images/enclosure.jpeg"   alt="enclosure"       width="350"><br>
+  <img src="Images/schem.png"        alt="schematic"       width="350"><br>
+  <img src="Images/pcb.png"          alt="pcb render"      width="350">
 </div>
 
 ## Object Detection Demo on Bike's Rear Camera
-
-  <div style="display: table-cell; vertical-align: middle;">
-  <img src="Images/yolo.jpg" alt="side sketch" width="350">
-  </div>
 
 <div style="text-align: center;">
   <video width="400" controls>
