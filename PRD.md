@@ -69,6 +69,25 @@ A cyclist mounts BikeGuider to their handlebars and rear rack. After setting a r
 | YOLO Model inference latency     | Medium         | High       | Try other models (e.g., EfficientDet, DETR) or hardwares (e.g., Raspberry Pi)|
 | Ambiguous haptic patterns        | Medium         | Medium     | Conduct iterative user testing; provide customizable vibration profiles in the app     |
 
+## Product Images
+
+<div style="display: table;">
+  <div style="display: table-cell; vertical-align: middle; padding-right: 10px;">
+    <img src="Images/front_max78000_embed.png" alt="top sketch" width="350">
+  </div>
+  <div style="display: table-cell; vertical-align: middle;">
+    <img src="Images/topview_max78000_embed.png" alt="side sketch" width="350">
+  </div>
+  <div style="display: table-cell; vertical-align: middle;">
+    <img src="Images/transparent_material_slot.png" alt="side sketch" width="350">
+  </div>
+  <div style="display: table-cell; vertical-align: middle;">
+    <img src="Images/transparent_material_slot.png" alt="side sketch" width="350">
+  </div>
+  <div style="display: table-cell; vertical-align: middle;">
+    <img src="Images/BikeGuider.png" alt="side sketch" width="350">
+  </div>
+</div>
 
 ## Team Member Responsibilities
 - Jiuyang Lyu: Vibration motor development, CAD design, PCB design
