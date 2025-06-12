@@ -8,6 +8,8 @@ nav_order: 1
 
 **Team 2: Jiuyang Lyu, Jun Wang, Simon Wang**
 
+[Final Project Report](https://drive.google.com/file/d/1F3itB9l2ATjrsEt_pddXnEDQaBjIJ9JK/view?usp=sharing)
+
 [May 6 Slides](https://docs.google.com/presentation/d/1mTShcqs4xdIHYxtaiJTxnBsU9qbqCU_LF7xcDLLJgOk/edit?usp=sharing)
 
 Imagine navigating city streets with complete confidence – no glancing at your phone, no missed turns, just you and the road ahead. BikeGuider transforms this vision into reality.
