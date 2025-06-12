@@ -83,6 +83,8 @@ A cyclist mounts BikeGuider to their handlebars and rear rack. After setting a r
   <div style="display: table-cell; vertical-align: middle;">
     <img src="Images/transparent_material_slot.png" alt="side sketch" width="350">
   </div>
+
+## Overall View on Hardware Mounted on Bike
   <div style="display: table-cell; vertical-align: middle;">
     <img src="Images/BikeGuider.png" alt="side sketch" width="350">
   </div>
