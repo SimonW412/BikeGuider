@@ -32,8 +32,6 @@ A cyclist mounts BikeGuider to their handlebars and rear rack. After setting a r
 ### Stretch Goals
 - Companion mobile app allowing users to:
   - Customize vibration patterns and intensity
-  - Switch between riding modes (e.g., urban mode: frequent hazard warnings; rural mode: reduced alert sensitivity)
-  - Review ride summaries
 
 <div style="display: table;">
   <div style="display: table-cell; vertical-align: middle; padding-right: 10px;">
